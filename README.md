@@ -1,3 +1,9 @@
+To install and launch the app:
+-Clone the repo <br/>
+-cd into the folder from your terminal <br/>
+-run $ npm install <br/>
+-run $ npm start <br/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
